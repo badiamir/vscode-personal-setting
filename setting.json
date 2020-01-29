@@ -1,0 +1,157 @@
+{
+  "editor.fontFamily": "'Operator mono'",
+    "editor.fontSize": 16,
+    "editor.lineHeight": 25,
+    "editor.letterSpacing": 1,
+    "files.trimTrailingWhitespace": true,
+    "editor.fontWeight": "300",
+    "editor.cursorStyle": "line",
+    "editor.cursorWidth": 2,
+    "editor.cursorBlinking": "solid",
+    "editor.renderWhitespace": "none",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "explorer.confirmDelete": false,
+    "files.autoSave": "afterDelay",
+    "workbench.colorTheme": "Material Theme Ocean High Contrast",
+    "workbench.statusBar.feedback.visible": false,
+    "liveServer.settings.donotVerifyTags": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "explorer.confirmDragAndDrop": false,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "editor.fontLigatures": true,
+    "vscode_custom_css.imports": [
+      "file:///C:/Users/amir/Documents/VSCODE/vscodeStyle.css"
+    ],
+    "vscode_custom_css.policy": true,
+    "prettier.arrowParens": "always",
+    "[javascript]": {
+      "editor.formatOnSave": true
+    },
+    "[html]": {
+      "editor.formatOnSave": true
+    },
+    "[css]": {
+      "editor.formatOnSave": true
+    },
+    "php.validate.executablePath": "C:\\xampp\\php\\php.exe",
+    "better-comments.tags": [
+      {
+        "tag": "...",
+        "color": "#ff57f1",
+        "strikethrough": false,
+        "backgroundColor": "transparent"
+      },
+      {
+        "tag": "!",
+        "color": "#FF2D00",
+        "strikethrough": false,
+        "backgroundColor": "transparent"
+      },
+      {
+        "tag": "?",
+        "color": "#3498DB",
+        "strikethrough": false,
+        "backgroundColor": "transparent"
+      },
+      {
+        "tag": "//",
+        "color": "#474747",
+        "strikethrough": true,
+        "backgroundColor": "transparent"
+      },
+      {
+        "tag": "todo",
+        "color": "#FF8C00",
+        "strikethrough": false,
+        "backgroundColor": "transparent"
+      },
+      {
+        "tag": "*",
+        "color": "#98C379",
+        "strikethrough": false,
+        "backgroundColor": "transparent"
+      }
+    ],
+    "workbench.colorCustomizations": {
+      "activityBarBadge.background": "#00BCD4",
+      "list.activeSelectionForeground": "#00BCD4",
+      "list.inactiveSelectionForeground": "#00BCD4",
+      "list.highlightForeground": "#00BCD4",
+      "scrollbarSlider.activeBackground": "#00BCD450",
+      "editorSuggestWidget.highlightForeground": "#00BCD4",
+      "textLink.foreground": "#00BCD4",
+      "progressBar.background": "#00BCD4",
+      "pickerGroup.foreground": "#00BCD4",
+      "tab.activeBorder": "#00BCD4",
+      "notificationLink.foreground": "#00BCD4",
+      "editorWidget.resizeBorder": "#00BCD4",
+      "editorWidget.border": "#00BCD4",
+      "settings.modifiedItemIndicator": "#00BCD4",
+      "settings.headerForeground": "#00BCD4",
+      "panelTitle.activeBorder": "#00BCD4",
+      "breadcrumb.activeSelectionForeground": "#00BCD4",
+      "menu.selectionForeground": "#00BCD4",
+      "menubar.selectionForeground": "#00BCD4",
+      "editor.findMatchBorder": "#00BCD4",
+      "selection.background": "#00BCD440"
+    },
+    "window.zoomLevel": 0,
+    "terminal.integrated.rendererType": "dom",
+    "code-runner.runInTerminal": true,
+    "peacock.favoriteColors": [
+      {
+        "name": "Angular Red",
+        "value": "#b52e31"
+      },
+      {
+        "name": "Auth0 Orange",
+        "value": "#eb5424"
+      },
+      {
+        "name": "Azure Blue",
+        "value": "#007fff"
+      },
+      {
+        "name": "C# Purple",
+        "value": "#68217A"
+      },
+      {
+        "name": "Gatsby Purple",
+        "value": "#639"
+      },
+      {
+        "name": "Go Cyan",
+        "value": "#5dc9e2"
+      },
+      {
+        "name": "Java Blue-Gray",
+        "value": "#557c9b"
+      },
+      {
+        "name": "JavaScript Yellow",
+        "value": "#f9e64f"
+      },
+      {
+        "name": "Mandalorian Blue",
+        "value": "#1857a4"
+      },
+      {
+        "name": "Node Green",
+        "value": "#215732"
+      },
+      {
+        "name": "React Blue",
+        "value": "#00b3e6"
+      },
+      {
+        "name": "Something Different",
+        "value": "#832561"
+      },
+      {
+        "name": "Vue Green",
+        "value": "#42b883"
+      }
+    ],
+    "materialTheme.accent": "Cyan",
+    "editor.tabSize": 2
+  }
