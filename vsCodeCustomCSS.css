@@ -1,0 +1,30 @@
+.mkti {
+  /* font-style: normal; */
+}
+
+.mtk3 {
+  margin-left: 1px;
+  font-family: "Operator Mono";
+  font-size: 1em;
+  font-style: italic;
+}
+
+.mtk13,
+.mtk6 {
+  font-family: "Dank Mono";
+  font-style: italic;
+  font-size: 1.15em;
+  letter-spacing: 0px;
+  font-weight: 400;
+}
+
+.mtk6 {
+  font-style: normal;
+}
+
+.mtk12,
+.mtk1 {
+  font-family: "Dank Mono";
+  font-size: 1em;
+  letter-spacing: 0.7px;
+}
